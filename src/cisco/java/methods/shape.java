@@ -1,5 +1,5 @@
 package cisco.java.methods;
-
+//DAY2 Assignment 2
 public class shape
 {
     int l=1,b=1,h=1;

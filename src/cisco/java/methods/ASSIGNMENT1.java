@@ -1,5 +1,5 @@
 package cisco.java.methods;
-
+//DAY2 Assignment 1
 public class ASSIGNMENT1
 {
     public int calculate(int a,int b)
