@@ -9,7 +9,7 @@ public class assignment2
     public static void main(String[] argss)
     {
         Scanner sc=new Scanner(System.in);
-        LinkedHashSet l1 = new LinkedHashSet();
+        LinkedHashSet l1 = new LinkedHashSet<>();
         LinkedHashSet<Integer> l2 = new LinkedHashSet<Integer>();
 
         l1.add(1.0);
@@ -19,6 +19,7 @@ public class assignment2
         l1.add('m');
         l1.add('f');
         l1.add(true);
+        System.out.println("Enter number in random order from 1 to 8 eight types...");
         for(int i=0;i<8;i++)
         {
             l2.add(sc.nextInt());
